@@ -10,7 +10,7 @@ I am a Ph.D. candidate at East China Normal University, China. I received the M.
 
 ## Research
 
-My work focuses on silicon-photonic transceivers, broadband analog and mixed-signal equalization, and measurement-driven characterization of high-speed electrical and optical links.
+My research interests include silicon-photonic transceivers and optical equalizers.
 
 ## Contact
 
