@@ -1,7 +1,7 @@
 <h1 align="center">Haoyu Liu</h1>
 
 <p align="center">
-  Ph.D. candidate · Integrated circuits for high-speed optical communication
+  Ph.D. candidate · Mixed-signal IC design · Silicon-photonic transceivers
 </p>
 
 ## About
