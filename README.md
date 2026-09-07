@@ -10,7 +10,7 @@ I am a Ph.D. candidate at East China Normal University, China. I received the M.
 
 ## Research
 
-My research interests include silicon-photonic transceivers and optical equalizers.
+My research includes silicon-photonic transceivers and optical equalizers.
 
 ## Contact
 
